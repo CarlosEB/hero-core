@@ -1,0 +1,11 @@
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\bin\Debug\netcoreapp2.0\web-chalenge.deps.json
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\bin\Debug\netcoreapp2.0\web-chalenge.runtimeconfig.json
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\bin\Debug\netcoreapp2.0\web-chalenge.runtimeconfig.dev.json
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\bin\Debug\netcoreapp2.0\web-chalenge.dll
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\bin\Debug\netcoreapp2.0\web-chalenge.pdb
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\obj\Debug\netcoreapp2.0\web-chalenge.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\obj\Debug\netcoreapp2.0\web-chalenge.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\obj\Debug\netcoreapp2.0\web-chalenge.AssemblyInfoInputs.cache
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\obj\Debug\netcoreapp2.0\web-chalenge.AssemblyInfo.cs
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\obj\Debug\netcoreapp2.0\web-chalenge.dll
+C:\Users\carlos\Source\Repos\web-chalenge\web-chalenge\obj\Debug\netcoreapp2.0\web-chalenge.pdb
